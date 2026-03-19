@@ -1,2 +1,3 @@
-# modern-travel-planner-0ag6
-A travel planning application for modern development workflows
+# Modern Travel Planner 0Ag6
+
+A travel planning application for modern development workflows.
